@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 10vh;
+    background-color: blanchedalmond;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    height: 10vh;
+    background-color: blanchedalmond;
+}
+
+li,
+a {
+    text-decoration: none;
+    color: black;
+}
